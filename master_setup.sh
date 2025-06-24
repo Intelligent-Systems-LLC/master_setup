@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+#
+# master_setup.sh author: Ygor Honesto
+# git clone https://github.com/Intelligent-Systems-LLC/master_setup
+# Usage: sudo ./master_setup.sh  ( defaults to the menu system )
+# _______________________________
 set -euo pipefail
 
 # ─── Intelligent Systems CLI Banner ──────────────────────────────────────────
